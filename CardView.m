@@ -28,7 +28,9 @@
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #import <AppKit/NSStringDrawing.h>
+#import <AppKit/AppKit.h>
 #import "CardView.h"
+
 
 @implementation CardView
 
