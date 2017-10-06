@@ -34,7 +34,12 @@ Freecell_LOCALIZED_RESOURCE_FILES=\
         Credits.html
 
 Freecell_LANGUAGES=\
-	English
+	English\
+        Dutch\
+        Finnish\
+        French\
+        Japanese\
+        Spanish
 
 Freecell_PRINCIPAL_CLASS=Freecell
 
