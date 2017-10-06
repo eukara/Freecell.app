@@ -30,26 +30,8 @@ Freecell_RESOURCE_FILES=\
 	Freecell.icns
 
 Freecell_LOCALIZED_RESOURCE_FILES=\
-	MainMenu.nib/keyedobjects.nib\
-	MainMenu.nib/designable.nib\
-	Credits.html\
-	Help/preferences.png\
-	Help/history.html\
-	Help/logos.png\
-	Help/history.png\
-	Help/play.html\
-#	Help/Help idx\
-	Help/links.html\
-	Help/game.html\
-	Help/move-start.png\
-	Help/move-end.png\
-	Help/logo.png\
-	Help/game.png\
-	Help/Freecell.html\
-	Help/tips.html\
-	Help/preferences.html\
-	InfoPlist.strings\
-	Localizable.strings
+        MainMenu.nib\
+        Credits.html
 
 Freecell_LANGUAGES=\
 	English
