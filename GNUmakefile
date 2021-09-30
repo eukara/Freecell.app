@@ -31,6 +31,7 @@ Freecell_RESOURCE_FILES=\
 
 Freecell_LOCALIZED_RESOURCE_FILES=\
         MainMenu.nib\
+        Localizable.strings\
         Credits.html
 
 Freecell_LANGUAGES=\
